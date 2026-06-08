@@ -1,0 +1,114 @@
+# Student Grade Calculator - Test Cases
+
+## Test Case 1
+
+Input:
+
+text id="8p9m3h"
+Name: Priya
+Marks: 95
+
+
+Expected Output:
+
+text id="h1r0sn"
+Grade: A
+Message: Excellent Work! You are amazing! 🌟
+
+
+
+## Test Case 2
+
+Input:
+
+text id="6c1qxy"
+Name: Rahul
+Marks: 85
+
+Expected Output:
+
+text id="od6vlq"
+Grade: B
+Message: Very Good! Keep it up! 👍
+
+
+
+## Test Case 3
+
+Input:
+
+text id="a76s0x"
+Name: Anika
+Marks: 72
+
+
+Expected Output:
+
+text id="gb3m9q"
+Grade: C
+Message: Good Job! You can do even better! 😊
+
+
+
+## Test Case 4
+
+Input:
+
+text id="6j1l0e"
+Name: John
+Marks: 64
+
+
+Expected Output:
+
+text id="4r8v2y"
+Grade: D
+Message: Nice effort! Keep practicing! 📚
+
+
+
+## Test Case 5
+
+Input:
+
+text id="r0fpxh"
+Name: Sara
+Marks: 40
+
+
+Expected Output:
+
+text id="k3n8j2"
+Grade: F
+Message: Don't give up! Keep learning and improving! 💪
+
+
+
+## Test Case 6 - Invalid Input
+
+Input:
+
+text id="7xj4a0"
+Marks: 120
+
+
+Expected Output:
+
+text id="w9z0f1"
+❌ Invalid input! Marks must be between 0 and 100.
+
+
+
+## Test Case 7 - Non-Numeric Input
+
+Input:
+
+text id="pr4u2w"
+Marks: abc
+
+
+Expected Output:
+
+text id="f6y9nv"
+❌ Please enter a valid number.
+
