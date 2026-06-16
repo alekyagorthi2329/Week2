@@ -5,7 +5,7 @@
 Input:
 
 text id="8p9m3h"
-Name: Priya
+Name: Alekya
 Marks: 95
 
 
@@ -22,7 +22,7 @@ Message: Excellent Work! You are amazing! 🌟
 Input:
 
 text id="6c1qxy"
-Name: Rahul
+Name: Raju
 Marks: 85
 
 Expected Output:
@@ -38,7 +38,7 @@ Message: Very Good! Keep it up! 👍
 Input:
 
 text id="a76s0x"
-Name: Anika
+Name: Amrutha
 Marks: 72
 
 
@@ -55,7 +55,7 @@ Message: Good Job! You can do even better! 😊
 Input:
 
 text id="6j1l0e"
-Name: John
+Name: Purna
 Marks: 64
 
 
@@ -72,7 +72,7 @@ Message: Nice effort! Keep practicing! 📚
 Input:
 
 text id="r0fpxh"
-Name: Sara
+Name: Santosh
 Marks: 40
 
 
